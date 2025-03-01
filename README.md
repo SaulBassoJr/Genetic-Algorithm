@@ -38,7 +38,7 @@ E dentre eles temos alguns tipos:
 Algoritmos Genéticos
 </h2>
 <p align="justify">
-são técnicas de busca que utilizam processos biológicos para resolver problemas complexos.
+São técnicas de busca que utilizam processos biológicos para resolver problemas complexos.
 </p>
 <h3>Como funcionam?</h3>
 <p align="justify">
@@ -69,7 +69,7 @@ O código segue a estrutura básica de um AG, incluindo:
 Fitness function - Função de Aptidão
 </h3>
 <p align="justify">
-A função avaliar_aptidao(individuo) mede o quão próximo um indivíduo está da solução desejada (a string ALVO). 
+A função avaliarAptidao(individuo) mede o quão próximo um indivíduo está da solução desejada (a string ALVO). 
 </p>
 <p align="justify">
 A função recebe um indivíduo (string aleatória) e o compara letra por letra com a string alvo. Ela conta quantos caracteres estão corretos e retorna esse número como a pontuação de aptidão.
