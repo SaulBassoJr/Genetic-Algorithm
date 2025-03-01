@@ -118,7 +118,7 @@ Exemplo Prático:
   <ul>
     <li>individuo="PBRALXLEPIAEDQO"</li>
   </ul>
-  Agora aplicamos a função f(i) para cada posição i da string.
+  Agora aplica-se a função f(i) para cada posição i da string.
 </p>
 <div align="center">
 <img src=https://github.com/user-attachments/assets/651856c7-3f18-451a-87f1-c8fcda3fb0df width="600px" />
